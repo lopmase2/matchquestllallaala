@@ -1,0 +1,1 @@
+query_id=AAFLGEckAwAAAEsYRyRf1gxa&user=%7B%22id%22%3A7051089995%2C%22first_name%22%3A%22Ngo%22%2C%22last_name%22%3A%22Qui%20%F0%9F%A6%B4%22%2C%22username%22%3A%22lopmase%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724902716&hash=8c68df7da35cce1b95bb87dfabed241766395e4e54c89a7031322c3b0e0149e2
